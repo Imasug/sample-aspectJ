@@ -1,0 +1,5 @@
+<aspectj>
+	<aspects>
+		<aspect name="jp.imanaga.sample.aspect.DemoAspect" />
+	</aspects>
+</aspectj>
